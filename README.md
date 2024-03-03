@@ -12,13 +12,13 @@ A backend blog application built with Node.js, Express.js, and MongoDB.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/backend-blog.git
+   git clone https://github.com/ashika8811/backend-blog.git
    ```
 
 2. Install dependencies:
    ```
    cd backend-blog
-   npm install
+   npm install 
    ```
 
 3. Start the server:
